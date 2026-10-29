@@ -1,0 +1,11 @@
+{
+  "name": "Grupo Rabala App",
+  "short_name": "Rabala",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4ee",
+  "theme_color": "#4c6a25",
+  "icons": [
+    { "src": "/icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
